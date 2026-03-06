@@ -63,6 +63,11 @@ This project was created for **learning basic programming concepts**, such as:
 
 The game interface and messages are written in **Vietnamese**.
 
+## TODO
+- Convert UI to English
+- Separate console UI class
+
+
 ## Author
 
 Cunnekba
