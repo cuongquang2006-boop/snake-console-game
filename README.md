@@ -44,7 +44,11 @@ g++ main.cpp -o snake
 
 ## Demo
 
-![Snake Gameplay](demo.gif)
+### Gameplay
+![Snake Gameplay](assets/imageORgif/snake_play.gif)
+
+### Game Menu
+![Snake Menu](assets/imageORgif/snake_menu.png)
 
 ## Purpose
 
@@ -54,6 +58,10 @@ This project was created for **learning basic programming concepts**, such as:
 * Input handling
 * Collision detection
 * Simple game logic
+
+## Language
+
+The game interface and messages are written in **Vietnamese**.
 
 ## Author
 
