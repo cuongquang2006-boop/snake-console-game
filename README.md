@@ -63,6 +63,14 @@ This project was created for **learning basic programming concepts**, such as:
 * Collision detection
 * Simple game logic
 
+## What I Learned
+
+During the development of this project, I practiced several important programming skills:
+
+- Structuring a program using **Object-Oriented Programming (OOP)** with clear class separation and organized design
+- Handling **events, loops, and console input/output**
+- Implementing basic **game logic**, such as wall collision, scoring when eating food, increasing difficulty, and snake movement management
+
 ## Language
 
 The game interface and messages are written in **English**.
