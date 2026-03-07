@@ -76,8 +76,8 @@ During the development of this project, I practiced several important programmin
 The game interface and messages are written in **English**.
 
 ## TODO
-- Separate console UI class
-
+-Refactor modular
+-GUI
 
 ## Author
 
