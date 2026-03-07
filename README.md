@@ -78,7 +78,7 @@ The game interface and messages are written in **English**.
 ## TODO
 - Refactor modular
 
-- GUI
+- GUI (Using **Raylib**)
 
 ## Author
 
