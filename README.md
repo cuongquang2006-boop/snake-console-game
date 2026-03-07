@@ -76,8 +76,9 @@ During the development of this project, I practiced several important programmin
 The game interface and messages are written in **English**.
 
 ## TODO
--Refactor modular
--GUI
+- Refactor modular
+
+- GUI
 
 ## Author
 
