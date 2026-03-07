@@ -45,7 +45,7 @@ g++ main.cpp -o snake
 ## Demo
 
 ### Gameplay
-![Snake Gameplay](assets/imageORgif/snake_play.gif)
+![Snake Gameplay](assets/demo-imag/snake-play.gif)
 
 ### Game Menu
 ![Snake Menu](assets/demo-imag/menu_im.png)
