@@ -61,7 +61,7 @@ This project was created for **learning basic programming concepts**, such as:
 
 ## Language
 
-The game interface and messages are written in **Vietnamese**.
+The game interface and messages are written in **English**.
 
 ## TODO
 - Convert UI to English
