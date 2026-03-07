@@ -48,7 +48,7 @@ g++ main.cpp -o snake
 ![Snake Gameplay](assets/imageORgif/snake_play.gif)
 
 ### Game Menu
-![Snake Menu](assets/imageORgif/snake_menu.png)
+![Snake Menu](assets/demo-imag/menu_im.png)
 
 ## Purpose
 
