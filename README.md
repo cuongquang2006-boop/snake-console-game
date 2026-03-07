@@ -45,10 +45,14 @@ g++ main.cpp -o snake
 ## Demo
 
 ### Gameplay
-![Snake Gameplay](assets/demo-imag/snake-play.gif)
+<p align="center">
+  <img src="assets/demo-imag/snake-play.gif" width="500">
+</p>
 
 ### Game Menu
-![Snake Menu](assets/demo-imag/menu_im.png)
+<p align="center">
+  <img src="assets/demo-imag/menu_im.png" width="500">
+</p>
 
 ## Purpose
 
